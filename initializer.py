@@ -1,5 +1,5 @@
 import pygame
-
+#edit
 class Initializer:
     def __init__(self):
         pygame.init()

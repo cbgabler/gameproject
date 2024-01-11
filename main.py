@@ -37,7 +37,7 @@ def run_game():
         initializer.dt = initializer.timer.tick(60) / 1000
 
     pygame.quit()
-
+#edit
 
 if __name__ == "__main__":
     run_game()

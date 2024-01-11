@@ -1,5 +1,5 @@
 import pygame
-
+#edit
 class worldEvents():
     def __init__(self):
         self.LEFT = 1
